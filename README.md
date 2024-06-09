@@ -1,6 +1,6 @@
-_**Project Name: Psychological-Well-being-Chatbot
+_**Project Name: Psychological-Well-being-Chatbot**_
 
-NLP Techniques Used:**_
+_**NLP Techniques Used:**_
 
 Preprocessing: Implemented standard NLP preprocessing techniques including tokenization, stopword removal, stemming, and lemmatization to clean and prepare user input for analysis.
 
